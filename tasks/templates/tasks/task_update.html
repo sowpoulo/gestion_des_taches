@@ -1,0 +1,7 @@
+<!-- task_update.html -->
+<h1>Mettre à jour la tâche</h1>
+<form method="post">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button type="submit">Mettre à jour</button>
+</form>

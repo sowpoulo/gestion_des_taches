@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.6.0",
+    "@popperjs/core": "^2.11.8",
+    "bootstrap": "^5.3.3",
+    "chart.js": "^4.4.4",
+    "jquery": "^3.7.1",
+    "simple-datatables": "^9.1.0"
+  },
+  "name": "gestion_des_taches",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
